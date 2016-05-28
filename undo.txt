@@ -1,0 +1,8 @@
+The commands above only cover around 5% of Vim but once you learn them you’ll know the basics and should be just as productive as you were before discovering it. After you learn the remaining 95% of Vim you’ll be a coding ninja, able to update and refactor code in the blink of an eye.
+
+
+The commands above only cover around 5% of Vim but once you learn them you’ll know the basics and should be just as productive as you were before discovering it. After you learn the remaining 95% of Vim you’ll be a coding ninja, able to update and refactor code in the blink of an eye.
+
+
+
+
